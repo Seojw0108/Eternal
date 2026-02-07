@@ -5,9 +5,10 @@
 > 최근 생성형 AI 기술은 다양한 분야에서 활용되고 있지만, 복잡한 패널 데이터를 일반 사용자가 직관적으로 검색하고 분석하는 데는 여전히 어려움이 있습니다.
 
 > Eternel은 **자연어 질의를 통해 누구나 쉽게 패널 데이터를 검색**하고, **AI 기반 분석 결과를 시각화**하여 데이터 인사이트를 발견할 수 있도록 돕는 플랫폼입니다.
->
 
-[![원본 저장소 및 기여 내역 확인하기](https://img.shields.io/badge/Original-Repository-blue)](https://github.com/khg9859/Eternal)
+> 본 레포지토리는 특정 커밋을 기준으로 분리된 레포지토리입니다. 기역내역 및 원 레포지토리는 다음 링크를 참고해주세요.
+
+* **Original Repository:** [khg9859/Eternal](https://github.com/khg9859/Eternal)
 
 ![Eternel 메인 화면](images/main.png)
 
