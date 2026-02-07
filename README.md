@@ -7,7 +7,7 @@
 > Eternel은 **자연어 질의를 통해 누구나 쉽게 패널 데이터를 검색**하고, **AI 기반 분석 결과를 시각화**하여 데이터 인사이트를 발견할 수 있도록 돕는 플랫폼입니다.
 >
 
-[![Original Repo](https://img.shields.io/badge/Original-Repository-blue)](https://github.com/조원_계정/Eternal)
+[![원본 저장소 및 기여 내역 확인하기](https://img.shields.io/badge/Original-Repository-blue)](https://github.com/khg9859/Eternal)
 
 ![Eternel 메인 화면](images/main.png)
 
