@@ -10,6 +10,8 @@
 
 * **Original Repository:** [khg9859/Eternal](https://github.com/khg9859/Eternal)
 
+> 배포 중단 (Disabled): AWS EC2 및 Lambda 자동 배포 단계 비활성화 되어 있습니다. 배포판은 원 레포지토리를 참고해주세요.
+
 ![Eternel 메인 화면](images/main.png)
 
 ---
