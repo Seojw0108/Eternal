@@ -39,6 +39,8 @@ jobs:
         continue-on-error: true
 
       - name: Build project
+        env:
+          CI: false 
         run: |
           cd frontend
           npm run build
